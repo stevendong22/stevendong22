@@ -16,7 +16,7 @@ Version Control: Git, GitHub
 
 Email: stevendong21@yahoo.com
 
-LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/steven-dong-221095276/)
+LinkedIn: [in/stevendong](https://www.linkedin.com/in/steven-dong-221095276/)
 <!--
 **stevendong22/stevendong22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
