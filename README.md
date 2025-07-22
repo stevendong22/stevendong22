@@ -11,6 +11,12 @@ Databases: SQL, MySQL
 Development Tools: Jupyter Notebooks, Google Colab
 
 Version Control: Git, GitHub
+
+📫 How to Reach Me:
+
+Email: stevendong21@yahoo.com
+
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/steven-dong-221095276/)
 <!--
 **stevendong22/stevendong22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
